@@ -41,7 +41,7 @@ Se ha mejorado con las siguientes funcionalidades adicionales:
 
 ### 1. 🔧 Requisitos previos
 
-- Tener ROS 2 Foxy o Humble instalado
+- Tener ROS 2 Humble instalado
 - Tener instalado el simulador `f1tenth_gym_ros`
 - Estar dentro del workspace adecuado (por ejemplo `F1Tenth-Repository`)
 
